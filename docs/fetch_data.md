@@ -1,0 +1,9 @@
+## 获取数据的几种方法
+1. tusharepro
+2. baostock
+3. pytdx
+4. mootdx
+5. rqdatac
+6. jqdatasdk
+7. wind
+8. choice
